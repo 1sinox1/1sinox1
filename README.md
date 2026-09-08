@@ -6,6 +6,7 @@ I work on games, mobile apps, plugins and API integrations. My experience includ
 
 ## Public code examples
 
+- [Combat Systems](https://github.com/1sinox1/combat-systems-example): deterministic C++20 weapon, reload and enemy-perception logic with contract tests. Engine-independent demonstration.
 - [Paper Healthcheck](https://github.com/1sinox1/paper-healthcheck): a Java plugin providing read-only server diagnostics, with automated tests and a verified Paper server startup.
 - [GP Config Review](https://github.com/1sinox1/gp-config-review): a Python tool for reviewing GriefPrevention YAML configuration, with validation tests and example reports.
 
